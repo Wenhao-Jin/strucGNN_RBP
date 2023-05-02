@@ -1,4 +1,4 @@
-# strucGNN_RBP: structure-based modelling of RNA-binding proteins using graph neural networks.
+# strucGNN-RBP: structure-based modelling of RNA-binding proteins using graph neural networks.
 
 ## strucGNNs
 strucGNNs are graph neural network-based frameworks for predicting RNA-binding protein and RNA-binding domain from protein structure data.
